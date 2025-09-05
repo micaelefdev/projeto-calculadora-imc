@@ -57,4 +57,4 @@ Criar uma calculadora de IMC intuitiva e responsiva que:
 ✅ Responsividade para mobile e desktop  
 ✅ Tratamento de erros com feedback visual  
 
-## 🔧 **Fotos da calculadora IMC:**
+## 🔧 **Calculadora IMC:**
